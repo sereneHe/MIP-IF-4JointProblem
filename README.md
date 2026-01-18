@@ -1,5 +1,5 @@
 # MIP4Cluster-LDS
-Mixed-Integer Programming Method for Jointly clustering (Multiple) Linear Dynamical Systems-
+Mixed-Integer Programming Method for Jointly Clustering (Multiple) Linear Dynamical Systems
 
 # Project Description
 This is the source code for the paper Joint Problems in Learning Multiple Dynamical Systems accepted by Allerton conference.
