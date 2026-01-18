@@ -106,9 +106,8 @@ If one would like to develop the codes, pls fork to your git or follow the follo
 ### Setup
 1. Clone the repository:
     ```bash
-   git clone https://github.com/sereneHe/MIP-IF-4JointProblem.git
-
-   cd MIP4Cluster
+   git clone https://github.com/sereneHe/MIP_IF_4JointProblem.git
+   cd MIP_IF_4JointProblem/
    ```
 2. Install uv (optional, for running scripts):
    ```bash
@@ -127,7 +126,7 @@ If one would like to develop the codes, pls fork to your git or follow the follo
    ```
 5. Data cleaning/generation
    ```bash
-   uv run python src/mixture_lds/utils_MIP4Cluster.py
+   uv run python tests/Generate_data.py
    ```
 6. Tests
    ```bash
