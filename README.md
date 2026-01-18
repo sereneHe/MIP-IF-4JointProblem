@@ -100,7 +100,7 @@ If one would like to run experiments on local, try the notebooks on [Colab](http
 
 4. Results: All results and figures mentioned in the paper are under the folder ./result. You can utilize "./notebooks/runtime_F1_plot.ipynb" to visualize the results.
 
-## What to develop
+## Want to develop
 If one would like to develop the codes, pls fork to your git or follow the following steps to better manage in your code editer.
 
 ### Setup
